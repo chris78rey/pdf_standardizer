@@ -1,0 +1,268 @@
+[
+  {
+    "nombre_pdf": "PI.pdf",
+    "orden": 1,
+    "regla_lee_documento": "PLANILLAINDIVIDUAL",
+    "identidad": "PI",
+    "alt_identidad": null
+  },
+  {
+    "nombre_pdf": "CC.pdf",
+    "orden": 2,
+    "regla_lee_documento": "COBERTURA",
+    "identidad": "CC",
+    "alt_identidad": null
+  },
+  {
+    "nombre_pdf": "CV.pdf",
+    "orden": 3,
+    "regla_lee_documento": "",
+    "identidad": "CV",
+    "alt_identidad": null
+  },
+  {
+    "nombre_pdf": "AES.pdf",
+    "orden": 4,
+    "regla_lee_documento": "",
+    "identidad": "AES",
+    "alt_identidad": null
+  },
+  {
+    "nombre_pdf": "053.pdf",
+    "orden": 5,
+    "regla_lee_documento": "",
+    "identidad": "053",
+    "alt_identidad": null
+  },
+  {
+    "nombre_pdf": "006.pdf",
+    "orden": 6,
+    "regla_lee_documento": "EPICRISIS",
+    "identidad": "006",
+    "alt_identidad": null
+  },
+  {
+    "nombre_pdf": "007.pdf",
+    "orden": 7,
+    "regla_lee_documento": "FORMULARIO 7 ¿ INTERCONSULTA",
+    "identidad": "007",
+    "alt_identidad": null
+  },
+  {
+    "nombre_pdf": "017.pdf",
+    "orden": 8,
+    "regla_lee_documento": "",
+    "identidad": "017",
+    "alt_identidad": null
+  },
+  {
+    "nombre_pdf": "018.pdf",
+    "orden": 9,
+    "regla_lee_documento": "",
+    "identidad": "018",
+    "alt_identidad": null
+  },
+  {
+    "nombre_pdf": "018A.pdf",
+    "orden": 10,
+    "regla_lee_documento": "",
+    "identidad": "018A",
+    "alt_identidad": null
+  },
+  {
+    "nombre_pdf": "113.pdf",
+    "orden": 11,
+    "regla_lee_documento": "",
+    "identidad": "113",
+    "alt_identidad": null
+  },
+  {
+    "nombre_pdf": "114.pdf",
+    "orden": 12,
+    "regla_lee_documento": "",
+    "identidad": "114",
+    "alt_identidad": null
+  },
+  {
+    "nombre_pdf": "115.pdf",
+    "orden": 13,
+    "regla_lee_documento": "",
+    "identidad": "115",
+    "alt_identidad": null
+  },
+  {
+    "nombre_pdf": "ORS.pdf",
+    "orden": 14,
+    "regla_lee_documento": "PROCEDIMIENTOMENOR|RESULTADOS EXAMENES DE CARDIOLOGIA|EXÁMENES Y PROCEDIMIENTOS DE CARDIOLOGÍA|PROCEDIMIENTOS ESPECIALES|RESULTADOS PROCEDIMIENTOS ESPECIALES",
+    "identidad": "ORS",
+    "alt_identidad": null
+  },
+  {
+    "nombre_pdf": "002.pdf",
+    "orden": 15,
+    "regla_lee_documento": "Reporte de Notas de Evolución",
+    "identidad": "002",
+    "alt_identidad": null
+  },
+  {
+    "nombre_pdf": "010A.pdf",
+    "orden": 16,
+    "regla_lee_documento": "ENDOCRINOLOGIA|FORMULARIO 10",
+    "identidad": "010A",
+    "alt_identidad": null
+  },
+  {
+    "nombre_pdf": "010B.pdf",
+    "orden": 17,
+    "regla_lee_documento": "RESULTADOS EXAMENES DE ENDOCRINOLOGIA",
+    "identidad": "010B",
+    "alt_identidad": null
+  },
+  {
+    "nombre_pdf": "012A.pdf",
+    "orden": 18,
+    "regla_lee_documento": "FORMULARIO 12",
+    "identidad": "012A",
+    "alt_identidad": null
+  },
+  {
+    "nombre_pdf": "012B.pdf",
+    "orden": 19,
+    "regla_lee_documento": "RESULTADOS EXAMENES DE IMAGEN",
+    "identidad": "012B",
+    "alt_identidad": null
+  },
+  {
+    "nombre_pdf": "033.pdf",
+    "orden": 20,
+    "regla_lee_documento": "",
+    "identidad": "033",
+    "alt_identidad": null
+  },
+  {
+    "nombre_pdf": "013A.pdf",
+    "orden": 21,
+    "regla_lee_documento": "",
+    "identidad": "013A",
+    "alt_identidad": null
+  },
+  {
+    "nombre_pdf": "013B.pdf",
+    "orden": 22,
+    "regla_lee_documento": "",
+    "identidad": "013B",
+    "alt_identidad": null
+  },
+  {
+    "nombre_pdf": "PTR.pdf",
+    "orden": 23,
+    "regla_lee_documento": "",
+    "identidad": "PTR",
+    "alt_identidad": null
+  },
+  {
+    "nombre_pdf": "RTR.pdf",
+    "orden": 24,
+    "regla_lee_documento": "",
+    "identidad": "RTR",
+    "alt_identidad": null
+  },
+  {
+    "nombre_pdf": "08.pdf",
+    "orden": 25,
+    "regla_lee_documento": "UNIDAD OPERATIVA: EMERGENCIA",
+    "identidad": "008",
+    "alt_identidad": "08"
+  },
+  {
+    "nombre_pdf": "FSCS.pdf",
+    "orden": 26,
+    "regla_lee_documento": "",
+    "identidad": "FSCS",
+    "alt_identidad": null
+  },
+  {
+    "nombre_pdf": "FSICS.pdf",
+    "orden": 27,
+    "regla_lee_documento": "",
+    "identidad": "FSICS",
+    "alt_identidad": null
+  },
+  {
+    "nombre_pdf": "FRDCS.pdf",
+    "orden": 28,
+    "regla_lee_documento": "",
+    "identidad": "FRDCS",
+    "alt_identidad": null
+  },
+  {
+    "nombre_pdf": "ANX2.pdf",
+    "orden": 29,
+    "regla_lee_documento": "",
+    "identidad": "ANX2",
+    "alt_identidad": null
+  },
+  {
+    "nombre_pdf": "HR.pdf",
+    "orden": 30,
+    "regla_lee_documento": "",
+    "identidad": "HR",
+    "alt_identidad": null
+  },
+  {
+    "nombre_pdf": "RHD.pdf",
+    "orden": 31,
+    "regla_lee_documento": "",
+    "identidad": "RHD",
+    "alt_identidad": null
+  },
+  {
+    "nombre_pdf": "IMT.pdf",
+    "orden": 32,
+    "regla_lee_documento": "",
+    "identidad": "IMT",
+    "alt_identidad": null
+  },
+  {
+    "nombre_pdf": "CEC.pdf",
+    "orden": 33,
+    "regla_lee_documento": "",
+    "identidad": "CEC",
+    "alt_identidad": null
+  },
+  {
+    "nombre_pdf": "RAD.pdf",
+    "orden": 34,
+    "regla_lee_documento": "",
+    "identidad": "RAD",
+    "alt_identidad": null
+  },
+  {
+    "nombre_pdf": "ITS.pdf",
+    "orden": 35,
+    "regla_lee_documento": "",
+    "identidad": "ITS",
+    "alt_identidad": null
+  },
+  {
+    "nombre_pdf": "RVD.pdf",
+    "orden": 36,
+    "regla_lee_documento": "",
+    "identidad": "RVD",
+    "alt_identidad": null
+  },
+  {
+    "nombre_pdf": "119.pdf",
+    "orden": 38,
+    "regla_lee_documento": "",
+    "identidad": "119",
+    "alt_identidad": null
+  },
+  {
+    "nombre_pdf": "TEST999.pdf",
+    "orden": 9999,
+    "regla_lee_documento": "",
+    "identidad": "TEST999",
+    "alt_identidad": null
+  }
+]
